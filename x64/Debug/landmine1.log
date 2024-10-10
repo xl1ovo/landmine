@@ -1,0 +1,5 @@
+﻿  game.c
+  test.c
+  正在生成代码...
+D:\编程\c语言\landmine1\landmine1\game.c(106,1): warning C4715: “flag”: 不是所有的控件路径都返回值
+  landmine1.vcxproj -> D:\编程\c语言\landmine1\x64\Debug\landmine1.exe
